@@ -7,6 +7,7 @@ This project was designed by Tate to answer a set of questions of the Museum of 
 3. Which artist is created the most artwork by total surface area?
 4. Did any artists have artwork acquired during their lifetime?
 5. Please review the quality of the data, and present any issues
+   
 The project uses Python to:
 * Read data from the database
 * Clean the data, for example: renaming columns, correcting datatypes, altering structure of dataset due to ids in list form
